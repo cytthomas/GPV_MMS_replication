@@ -5,3 +5,5 @@ In Ma, Marmer and Shneyerov (2019), the asymptotic normality is established usin
 
 In this project, I plan to replicate the Monte-Carlo results in GPV, some results from Ma, Marmer and Shneyreov (2019). 
 
+Although the functions for estimations have been written, simulation for the bootstrap in MMS is still in progress.
+
