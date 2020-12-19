@@ -1,2 +1,2 @@
-# ECON622Project
- Replication of GPV and MMS
+# ECON622project
+ Replication of GPV and MMS results
